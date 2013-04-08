@@ -3,7 +3,7 @@
 Plugin Name: Kilroy was here
 Plugin URI: http://wordpress.org/extend/plugins/kilroy-was-here/
 Description: Adds a text tag to the footer of posts & pages
-Version: 1.0.2
+Version: 1.0.3
 Author: Walter Ebert 
 Author URI: http://walterebert.com
 License: GPLv2 or later
