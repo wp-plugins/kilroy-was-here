@@ -3,7 +3,7 @@
 Plugin Name: Kilroy was here
 Plugin URI: http://wordpress.org/extend/plugins/kilroy-was-here/
 Description: Adds a text tag to the footer of posts & pages
-Version: 1.0.6
+Version: 1.0.7
 Author: Walter Ebert 
 Author URI: http://walterebert.com
 License: GPLv2 or later
@@ -54,10 +54,10 @@ class kilroywashere
 			<form action="<?php echo admin_url('options.php'); ?>" method="post">
 				<?php settings_fields( 'kilroywashere-settings-group' ); ?>
 				<p>
-					<textarea name="kilroywashere-content" class="code" cols="50" rows="10"><?php echo esc_html( get_option( 'kilroywashere-content' ) ); ?></textarea>
+					<textarea name="kilroywashere-content" class="code" cols="50" rows="10"><?php echo esc_textarea( get_option( 'kilroywashere-content' ) ); ?></textarea>
 				</p>
 				<p class="submit">
-					<input type="submit" class="button-primary" value="<?php _e('Save Changes') ?>" />
+					<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes' ); ?>" />
 				</p>
 			</form>
 		</div>
