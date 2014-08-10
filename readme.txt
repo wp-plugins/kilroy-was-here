@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: walterebert
 Tags: ascii art, html, source code, demo
-Requires at least: 3.0
-Tested up to: 3.9.1
-Stable tag: 1.0
+Requires at least: 3.1
+Tested up to: 3.9.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,3 +19,13 @@ After installation, you can change the text in the options page under 'Settings'
 == Screenshots ==
 
 1. Plugin settings page
+
+== Changelog ==
+
+= 1.1 =
+* Corrected minimal required WordPress version
+* Removed deprecated screen_icon function
+* Use plugins_loaded action
+* Added text domain for translations
+* Follow WordPress coding standards
+* Added unit tests
