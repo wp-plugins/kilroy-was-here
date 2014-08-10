@@ -1,0 +1,21 @@
+# Kilroy was here
+# This file is distributed under the same license as the kilroy-was-here package.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kilroy-was-here 1.1\n"
+"POT-Creation-Date: 2014-08-10 16:55+0200\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kilroy-was-here.php:5
+msgid "Adds a text tag to the footer of posts & pages"
+msgstr "Fügt einen Text im Fussbereich von Beiträgen & Seiten hinzu"
+
+#: kilroy-was-here.php:54
+msgid "Kilroy was here"
+msgstr "Kilroy war hier"
