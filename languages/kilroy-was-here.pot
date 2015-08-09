@@ -1,21 +1,69 @@
-# Kilroy was here
-# This file is distributed under the same license as the kilroy-was-here package.
-#
-#, fuzzy
+# Copyright (C) 2015 Kilroy was here
+# This file is distributed under the same license as the Kilroy was here package.
 msgid ""
 msgstr ""
-"Project-Id-Version: kilroy-was-here 1.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-10 16:55+0200\n"
-"Language: \n"
+"Project-Id-Version: Kilroy was here 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kilroy-was-here\n"
+"POT-Creation-Date: 2015-08-09 08:40:17+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 
-#: kilroy-was-here.php:5
+#: kilroy-was-here.php:20
+msgid "Access denied"
+msgstr ""
+
+#. #-#-#-#-#  kilroy-was-here.pot (Kilroy was here 1.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: kilroy-was-here.php:95 kilroy-was-here.php:108
+msgid "Kilroy was here"
+msgstr ""
+
+#: kilroy-was-here.php:113
+msgid "Text"
+msgstr ""
+
+#: kilroy-was-here.php:117
+msgid "Priority"
+msgstr ""
+
+#: kilroy-was-here.php:120
+msgid ""
+"A lower value means a higher priority. The default priority in WordPress is "
+"10."
+msgstr ""
+
+#: kilroy-was-here.php:124
+msgid "Display in HTML &lt;head&gt;"
+msgstr ""
+
+#: kilroy-was-here.php:128
+msgid "Display as HTML comment"
+msgstr ""
+
+#: kilroy-was-here.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: kilroy-was-here.php:148
+msgid "Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/kilroy-was-here/"
+msgstr ""
+
+#. Description of the plugin/theme
 msgid "Adds a text tag to the footer of posts & pages"
 msgstr ""
 
-#: kilroy-was-here.php:54
-msgid "Kilroy was here"
+#. Author of the plugin/theme
+msgid "Walter Ebert"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://walterebert.com"
 msgstr ""

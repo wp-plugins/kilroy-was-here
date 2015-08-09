@@ -1,21 +1,66 @@
-# Kilroy was here
-# This file is distributed under the same license as the kilroy-was-here package.
-#
-#, fuzzy
+# Copyright (C) 2015 Walter Ebert
+# This file is distributed under the same license as the Kilroy was here package.
 msgid ""
 msgstr ""
-"Project-Id-Version: kilroy-was-here 1.1\n"
-"POT-Creation-Date: 2014-08-10 16:55+0200\n"
-"Language: de_DE\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Kilroy was here 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/kilroy-was-here\n"
+"POT-Creation-Date: 2015-08-09 08:40:17+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: kilroy-was-here.php:5
+#: kilroy-was-here.php:20
+msgid "Access denied"
+msgstr "Zugriff verweigert"
+
+#. #-#-#-#-#  kilroy-was-here.pot (Kilroy was here 1.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: kilroy-was-here.php:95 kilroy-was-here.php:108
+msgid "Kilroy was here"
+msgstr "Kilroy war hier"
+
+#: kilroy-was-here.php:113
+msgid "Text"
+msgstr "Text"
+
+#: kilroy-was-here.php:117
+msgid "Priority"
+msgstr "Priorität"
+
+#: kilroy-was-here.php:112
+msgid "Save Changes"
+msgstr ""
+
+#: kilroy-was-here.php:120
+msgid ""
+"A lower value means a higher priority. The default priority in WordPress is "
+"10."
+msgstr ""
+"Ein niedrigerer Wert bedeutet eine höhere Priorität. Die Standard-Priorität in "
+"WordPress ist 10."
+
+#: kilroy-was-here.php:124
+msgid "Display in HTML &lt;head&gt;"
+msgstr "Im  HTML &lt;head&gt; ausgeben"
+
+#: kilroy-was-here.php:128
+msgid "Display as HTML comment"
+msgstr "Als HTML-Kommentar ausgeben"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/kilroy-was-here/"
+msgstr ""
+
+#. Description of the plugin/theme
 msgid "Adds a text tag to the footer of posts & pages"
 msgstr "Fügt einen Text im Fussbereich von Beiträgen & Seiten hinzu"
 
-#: kilroy-was-here.php:54
-msgid "Kilroy was here"
-msgstr "Kilroy war hier"
+#. Author of the plugin/theme
+msgid "Walter Ebert"
+msgstr "Walter Ebert"
+
+#. Author URI of the plugin/theme
+msgid "http://walterebert.com"
+msgstr "http://walterebert.de"
