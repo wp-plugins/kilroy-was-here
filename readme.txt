@@ -2,8 +2,8 @@
 Contributors: walterebert
 Tags: ascii art, html, source code, demo
 Requires at least: 3.1
-Tested up to: 4.1
-Stable tag: 1.1
+Tested up to: 4.3
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,12 @@ After installation, you can change the text in the options page under 'Settings'
 1. Plugin settings page
 
 == Changelog ==
+
+= 1.2 =
+* Added a priority setting
+* Added a HTML comment option
+* Added a HTML <head> option
+* Improved multisite support
 
 = 1.1 =
 * Corrected minimal required WordPress version
